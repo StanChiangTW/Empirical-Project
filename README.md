@@ -1,6 +1,6 @@
 # Empirical Project
 
-- data.xlsx -> Pre-tax net profit growth and revenue growth for all Taiwan electronics industries 
+- data.xlsx -> EBT growth and Sales growth for all Taiwan electronics industries 
 
 - index data.txt -> Taiwan Electronics Index closing price
 
