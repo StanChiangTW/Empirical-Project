@@ -12,13 +12,23 @@
 
 # Information:
 - Database: TEJ+
+
 - Market: Taiwan Stock Market
+
 - Industry: Electronics Industry
+
 - Benchmark Index: Taiwan Electronic Index (TELI)
+
 - Listing: Taiwan Stock Exchange (TWSE) Listed (TSE) & Taipei Exchange (TPEx) Listed (OTC)
+
 - Duration: 2013010~20191231
+
 - Rebalance Frequency: Every Quarter
+
 - Weighting: Factor-weighting
+
 - Factor: EBT Growth/Sales Growth
+
 - Programming: Python 3.7.4
+
 - IDE: Jupyter Notebook with Visual Studio Code
