@@ -1,5 +1,6 @@
 # Empirical Project
 
+# Files
 - data.xlsx -> EBT growth and Sales growth for all Taiwan electronics industries 
 
 - index data.txt -> Taiwan Electronics Index closing price
@@ -10,7 +11,7 @@
 
 - Research Report_Stan Chiang.pdf -> Business Report (Title: An empirical study of electronics industry based on Smart Beta using Python: Taiwan stock market as an example)
 
-# Information
+## Information
 - **Database:** TEJ+
 
 - **Market:** Taiwan Stock Market
