@@ -11,24 +11,24 @@
 - Research Report_Stan Chiang.pdf -> Business Report (Title: An empirical study of electronics industry based on Smart Beta using Python: Taiwan stock market as an example)
 
 # Information
-- Database: TEJ+
+- **Database:** TEJ+
 
-- Market: Taiwan Stock Market
+- **Market:** Taiwan Stock Market
 
-- Industry: Electronics Industry
+- **Industry:** Electronics Industry
 
-- Benchmark Index: Taiwan Electronic Index (TELI)
+- **Benchmark Index:** Taiwan Electronic Index (TELI)
 
-- Listing: Taiwan Stock Exchange (TWSE) Listed (TSE) & Taipei Exchange (TPEx) Listed (OTC)
+- **Listing:** Taiwan Stock Exchange (TWSE) Listed (TSE) & Taipei Exchange (TPEx) Listed (OTC)
 
-- Duration: 2013010~20191231
+- **Duration:** 2013010~20191231
 
-- Rebalance Frequency: Every Quarter
+- **Rebalance Frequency:** Every Quarter
 
-- Weighting: Factor-weighting
+- **Weighting:** Factor-weighting
 
-- Factor: EBT Growth/Sales Growth
+- **Factor:** EBT Growth/Sales Growth
 
-- Programming: Python 3.7.4
+- **Programming:** Python 3.7.4
 
-- IDE: Jupyter Notebook with Visual Studio Code
+- **IDE:** Jupyter Notebook with Visual Studio Code
