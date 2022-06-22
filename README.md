@@ -22,7 +22,7 @@
 
 - **Listing:** Taiwan Stock Exchange (TWSE) Listed (TSE) & Taipei Exchange (TPEx) Listed (OTC)
 
-- **Duration:** 2013010~20191231
+- **Duration:** 20130102~20191231
 
 - **Rebalance Frequency:** Every Quarter
 
